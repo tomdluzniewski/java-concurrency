@@ -3,7 +3,7 @@ package pl.com.solidwork.learning;
 import org.openjdk.jol.info.ClassLayout;
 
 /**
- * Hello world!
+ * This example presents usage of biased locking mechanism in JVM ( version 6 - 14 )
  *
  */
 public class BiasedLocking
